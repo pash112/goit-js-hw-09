@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: '/your-repository-name/',
+    base: '/goit-js-hw-09/',
     build: {
         outDir: 'dist',
     },
